@@ -1,20 +1,11 @@
-## Getting Started
+## Sophia's Arcade Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I have 4 arcade game options to choose from:
+  - Get-To-Know Sophia Game Show
+  - Number Guessing Game
+  - NYT Connections replica
+  - 2-Player Tic Tac Toe
 
-## Folder Structure
+My arcade game provides you with these 4 options to play. Choose which one you would like, and enjoy!
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Sophia-Morovati-Arcade-Project
-# Sophia-Morovati-Arcade-Project
+<img width="1093" alt="image" src="https://github.com/sophiamorovati/Sophia-Morovati-Arcade-Project/assets/170140534/731b7ddb-a326-4872-99fa-586c6e67b4b8">
